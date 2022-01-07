@@ -1,4 +1,8 @@
 from tkinter import *
-raiz = Tk()
-raiz.mainloop()
- 
+ventana = Tk()
+ventana.title('Biblioteca Monedas')
+
+
+
+
+ventana.mainloop()
